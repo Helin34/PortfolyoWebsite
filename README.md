@@ -7,6 +7,6 @@ Website tanıtım videosudur.
 
 HTML5 VE CSS3 ile ileri teknolojiler kullanılmışıtır.
 
-<h2> Ekran Gifi </h2>
+<h2> Ekran Görüntüsü </h2>
 
 ![](portfolio.gif)
